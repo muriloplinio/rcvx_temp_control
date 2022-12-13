@@ -438,6 +438,7 @@ void Relay2On_Callback(const char *pJsonString, uint32_t JsonStringDataLen, json
     IOT_UNUSED(JsonStringDataLen);
 
     if(pContext != NULL) {
+        
         ESP_LOGI(TAG, "Delta - Relay1On state changed to %d", *(bool *) (pContext->pData));
         ComandarRelay(2, *(bool *) pContext->pData);
 
