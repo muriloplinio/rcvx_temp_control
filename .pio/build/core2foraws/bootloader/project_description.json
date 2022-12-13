@@ -1,0 +1,20 @@
+{
+    "project_name":       "bootloader",
+    "project_path":       "/Users/muriloplinio/.platformio/packages/framework-espidf@3.40201.210513/components/bootloader/subproject",
+    "build_dir":          "/Users/muriloplinio/m5stack/rcvx_temp_control/.pio/build/core2foraws/bootloader",
+    "config_file":        "/Users/muriloplinio/m5stack/rcvx_temp_control/sdkconfig",
+    "config_defaults":    "",
+    "app_elf":            "bootloader.elf",
+    "app_bin":            "bootloader.bin",
+    "git_revision":       "3.40200.210118",
+    "target":             "esp32",
+    "phy_data_partition": "",
+    "monitor_baud" :      "115200",
+    "monitor_toolprefix": "xtensa-esp32-elf-",
+    "config_environment" : {
+        "COMPONENT_KCONFIGS" : "/Users/muriloplinio/.platformio/packages/framework-espidf@3.40201.210513/components/efuse/Kconfig;/Users/muriloplinio/.platformio/packages/framework-espidf@3.40201.210513/components/esp32/Kconfig;/Users/muriloplinio/.platformio/packages/framework-espidf@3.40201.210513/components/esp_common/Kconfig;/Users/muriloplinio/.platformio/packages/framework-espidf@3.40201.210513/components/log/Kconfig;/Users/muriloplinio/.platformio/packages/framework-espidf@3.40201.210513/components/spi_flash/Kconfig",
+        "COMPONENT_KCONFIGS_PROJBUILD" : "/Users/muriloplinio/.platformio/packages/framework-espidf@3.40201.210513/components/bootloader/Kconfig.projbuild;/Users/muriloplinio/.platformio/packages/framework-espidf@3.40201.210513/components/esptool_py/Kconfig.projbuild;/Users/muriloplinio/.platformio/packages/framework-espidf@3.40201.210513/components/partition_table/Kconfig.projbuild"
+    },
+    "build_components" : [ "bootloader", "bootloader_support", "efuse", "esp32", "esp_common", "esp_rom", "esptool_py", "log", "main", "micro-ecc", "partition_table", "soc", "spi_flash", "xtensa", "" ],
+    "build_component_paths" : [ "/Users/muriloplinio/.platformio/packages/framework-espidf@3.40201.210513/components/bootloader", "/Users/muriloplinio/.platformio/packages/framework-espidf@3.40201.210513/components/bootloader_support", "/Users/muriloplinio/.platformio/packages/framework-espidf@3.40201.210513/components/efuse", "/Users/muriloplinio/.platformio/packages/framework-espidf@3.40201.210513/components/esp32", "/Users/muriloplinio/.platformio/packages/framework-espidf@3.40201.210513/components/esp_common", "/Users/muriloplinio/.platformio/packages/framework-espidf@3.40201.210513/components/esp_rom", "/Users/muriloplinio/.platformio/packages/framework-espidf@3.40201.210513/components/esptool_py", "/Users/muriloplinio/.platformio/packages/framework-espidf@3.40201.210513/components/log", "/Users/muriloplinio/.platformio/packages/framework-espidf@3.40201.210513/components/bootloader/subproject/main", "/Users/muriloplinio/.platformio/packages/framework-espidf@3.40201.210513/components/bootloader/subproject/components/micro-ecc", "/Users/muriloplinio/.platformio/packages/framework-espidf@3.40201.210513/components/partition_table", "/Users/muriloplinio/.platformio/packages/framework-espidf@3.40201.210513/components/soc", "/Users/muriloplinio/.platformio/packages/framework-espidf@3.40201.210513/components/spi_flash", "/Users/muriloplinio/.platformio/packages/framework-espidf@3.40201.210513/components/xtensa", "" ]
+}

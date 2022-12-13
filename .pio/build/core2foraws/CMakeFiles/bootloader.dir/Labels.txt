@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/Users/muriloplinio/m5stack/rcvx_temp_control/.pio/build/core2foraws/CMakeFiles/bootloader
+/Users/muriloplinio/m5stack/rcvx_temp_control/.pio/build/core2foraws/CMakeFiles/bootloader.rule
+/Users/muriloplinio/m5stack/rcvx_temp_control/.pio/build/core2foraws/CMakeFiles/bootloader-complete.rule
+/Users/muriloplinio/m5stack/rcvx_temp_control/.pio/build/core2foraws/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/Users/muriloplinio/m5stack/rcvx_temp_control/.pio/build/core2foraws/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/Users/muriloplinio/m5stack/rcvx_temp_control/.pio/build/core2foraws/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/Users/muriloplinio/m5stack/rcvx_temp_control/.pio/build/core2foraws/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+/Users/muriloplinio/m5stack/rcvx_temp_control/.pio/build/core2foraws/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/Users/muriloplinio/m5stack/rcvx_temp_control/.pio/build/core2foraws/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/Users/muriloplinio/m5stack/rcvx_temp_control/.pio/build/core2foraws/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule

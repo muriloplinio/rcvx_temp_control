@@ -1,0 +1,5 @@
+source "/Users/muriloplinio/.platformio/packages/framework-espidf@3.40201.210513/components/efuse/Kconfig"
+source "/Users/muriloplinio/.platformio/packages/framework-espidf@3.40201.210513/components/esp32/Kconfig"
+source "/Users/muriloplinio/.platformio/packages/framework-espidf@3.40201.210513/components/esp_common/Kconfig"
+source "/Users/muriloplinio/.platformio/packages/framework-espidf@3.40201.210513/components/log/Kconfig"
+source "/Users/muriloplinio/.platformio/packages/framework-espidf@3.40201.210513/components/spi_flash/Kconfig"
